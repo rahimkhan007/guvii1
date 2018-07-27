@@ -10,16 +10,16 @@ class Ideone
 		int num=3;
 		if(num>0)
 		{
-			System.out.println("num is positive");
+			System.out.println("Positive");
 		}
 		else if(num<0)
 		{
-			System.out.println("num is negative");
+			System.out.println("Negative");
 			
 		}
 		else
 		{
-			System.out.println("num is zero");
+			System.out.println("Zero");
 		}
 	}
 }
